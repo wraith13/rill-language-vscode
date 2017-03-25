@@ -1,4 +1,4 @@
-# rill-language-vscode README
+# Rill for Visual Studio Code
 
 This is the README for your extension "rill-language-vscode". After writing up a brief description, we recommend including the following sections.
 

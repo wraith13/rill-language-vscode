@@ -1,4 +1,4 @@
-# Rill for Visual Studio Code
+# Welcome to your VS Code Extension
 
 ## What's in the folder
 
