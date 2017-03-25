@@ -2,6 +2,7 @@
     "name": "rill-language-vscode",
     "displayName": "Rill Language",
     "description": "Rill Language Support",
+    "icon": "images/JavaSparrow.128.png",
     "version": "0.0.1",
     "publisher": "wraith13",
     "license": "SEE LICENSE IN LICENSE_1_0.txt",
