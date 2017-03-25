@@ -1,0 +1,26 @@
+{
+    "name": "rill-language-vscode",
+    "displayName": "Rill Language",
+    "description": "Rill Language Support",
+    "version": "0.0.1",
+    "publisher": "wraith13",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "rill",
+            "aliases": ["Rill", "rill"],
+            "extensions": [".rill"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "rill",
+            "scopeName": "",
+            "path": "./syntaxes/rill.tmLanguage.json"
+        }]
+    }
+}
